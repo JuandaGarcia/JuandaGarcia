@@ -1,4 +1,4 @@
-![me]()
+![me](https://raw.githubusercontent.com/JuandaGarcia/JuandaGarcia/master/img/dinoo.gif)
 
 <h1 align="center">Hi 👋, I'm Juan David</h1>
 <h3 align="center">A passionate frontend developer 👨‍💻 from Cali, Colombia 🇨🇴</h3>
