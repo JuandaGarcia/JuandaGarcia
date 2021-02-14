@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Juan David</h1>
 <h3 align="center">A passionate frontend developer 👨‍💻 from Cali, Colombia 🇨🇴</h3>
-
+<div align="center">
+  ![Juan GitHub stats](https://github-readme-stats.vercel.app/api?username=juandagarcia&show_icons=true&theme=radical
+</div> 
 <p align="center">
   <a href="https://twitter.com/juandagarciadev" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="juandagarciadev" height="28px" width="28px" />
