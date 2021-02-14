@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Juan David</h1>
 <h3 align="center">A passionate frontend developer 👨‍💻 from Cali, Colombia 🇨🇴</h3>
 <div align="center">
-  ![Juan GitHub stats](https://github-readme-stats.vercel.app/api?username=juandagarcia&show_icons=true&theme=radical
+  ![Juan GitHub stats](https://github-readme-stats.vercel.app/api?username=juandagarcia&show_icons=true&theme=radical)
 </div> 
 <p align="center">
   <a href="https://twitter.com/juandagarciadev" target="_blank">
