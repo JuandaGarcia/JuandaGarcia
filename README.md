@@ -4,9 +4,6 @@
 <h3 align="center">A passionate frontend developer 👨‍💻 from Cali, Colombia 🇨🇴</h3>
 
 <p align="center">
-  <a href="https://twitter.com/juandagarciadev" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="juandagarciadev" height="28px" width="28px" />
-  </a>
   <a href="https://instagram.com/juandagarciaa" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="juandagarcia" height="28px" width="28px" />
   </a>
