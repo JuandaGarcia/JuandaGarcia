@@ -1,4 +1,4 @@
-![me](https://raw.githubusercontent.com/JuandaGarcia/JuandaGarcia/master/img/dinoo.gif)
+<img width="100%" height="auto" alt="Frame 33" src="https://github.com/user-attachments/assets/57b577d5-8a77-450d-822d-4ba85a204ae9" />
 
 <h1 align="center">Hi 👋, I'm Juan David</h1>
 <h3 align="center">A passionate frontend developer 👨‍💻 from Cali, Colombia 🇨🇴</h3>
